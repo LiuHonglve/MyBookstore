@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/js=UTF-8
+encoding//WebContent/js/admin/adminManage/adminAdd.js=UTF-8
+encoding//WebContent/js/admin/adminManage/adminEdit.js=UTF-8
+encoding//WebContent/js/admin/bookManage/bookAdd.js=UTF-8
+encoding//WebContent/js/admin/userManage/userAdd.js=UTF-8
+encoding//WebContent/js/admin/userManage/userEdit.js=UTF-8
+encoding//WebContent/js/book/addcart.js=UTF-8
+encoding//WebContent/js/book/getCatalog.js=UTF-8
+encoding//WebContent/js/book/index.js=UTF-8
+encoding//WebContent/js/book/landing.js=UTF-8
+encoding//WebContent/js/book/user_reg_login.js=UTF-8
+encoding//WebContent/jsp/book/cart.jsp=UTF-8
+encoding//WebContent/jsp/book/index.jsp=UTF-8
+encoding/<project>=UTF-8
+encoding/src=UTF-8
